@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Disciplina sin lagrimas",
+      "description": "Una guía imprescindible para orientar y alimentar el desarrollo mental de tu hijo. Por los autores del best seller internacional El cerebro del niño. Los autores de El cerebro del niño, Daniel J. Siegel y Tina Payne Bryson, analizan, en esta ocasión, el desafío primordial en la educación de los hijos: la disciplina. Haciendo hincapié en el fascinante vínculo entre el desarrollo neurológico del niño y el modo en que los padres reaccionan ante la mala conducta de este, La disciplina sin lágrimas proporciona un efectivo y compasivo «mapa de carreteras» para afrontar las pataletas, las tensiones y las lágrimas sin montar un número. Al definir el verdadero significado de la palabra «disciplina» (instruir, no gritar ni regañar), los autores explican cómo establecer conexión con el niño, redirigir emociones y convertir una rabieta en una oportunidad para crecer. De este modo, el ciclo de comportamiento (y castigo) negativo básicamente se detiene, mientras que la resolución del problema se transforma en una situación en la que todos salen ganando. En esta guía para no volverte loco descubrirás: - Estrategias para ayudar a los padres a identificar su propia filosofía disciplinaria y dominar los mejores métodos para transmitir las lecciones que intentan impartir. -Aspectos del desarrollo del cerebro del niño y análisis de las disciplinas más adecuadas y constructivas para todas las edades y etapas. -La manera de conectar con un niño con tranquilidad y afectuosidad -por extrema que sea su conducta-, fijando a la vez límites claros y coherentes. -Consejos para orientar a tus hijos a lo largo de una pataleta a fin de lograr percepción, empatía y reparación. -Veinte errores en relación con la disciplina que hasta los mejores padres cometen, y cómo permanecer centrados en los principios de las técnicas disciplinarias y el estilo parental de «cerebro pleno». Complementado con sencillas historias y divertidas ilustraciones que dan vida a las sugerencias de los autores, La disciplina sin lágrimas explica cómo trabajar con la mente en desarrollo de tu hijo, resolver conflictos de forma tranquila, inspirar felicidad y fortalecer la resiliencia en todos los miembros de la familia.",
+      "price": 42000,
+      "id": 1
+    },
+    {
+      "name": "Los abismos",
+      "description": "PREMIO ALFAGUARA DE NOVELA 2021 Una novela sobre el fin de la infancia y sus fantasmas Claudia vive con sus padres en un apartamento invadido por plantas que se estiran para tocarla. Como todas las familias, la suya contiene una crisis, y solo hará falta que algo o alguien llegue a detonarla. Cada quien tiene un punto de quiebre en la infancia, y Claudia, la protagonista de esta historia, narra, desde la expectación y la mirada aguda de cuando fue una niña, los hechos que abrieron las grietas por donde se colaron los peores temores, aquellos que son irreversibles y empujan al borde del precipicio. Los abismos es un relato estremecedor en el que una hija asume las revelaciones de su madre y los silencios de su padre para empezar a construir su propio mundo. Tras el éxito de La perra, con esta novela, Pilar Quintana consolida el importante lugar que ha conquistado en las letras hispanoamericanas. «Los abismos se adentra en la oscuridad del mundo de los adultos a través del punto de vista de una niña que, desde la memoria de su vida familiar, intenta comprender la conflictiva relación entre sus padres. Con el telón de fondo de un mundo femenino de mujeres atadas a la rueda de una noria de la que no pueden o no saben escapar, la autora ha creado una historia poderosa narrada desde una aparente ingenuidad que contrasta con la atmósfera desdichada que rodea a la protagonista. Con una prosa sutil y luminosa en la que la naturaleza nos conecta con las posibilidades simbólicas de la literatura, y los abismos son tanto los reales como los de la intimidad.»",
+      "price": 54000,
+      "id": 2
+    },
+    {
+      "name": "Habitos Atómicos",
+      "description": "A 3 décadas de que Stephen Covey nos revelara los 7 hábitos de la gente altamente efectiva, James Clear nos enseña la forma más sencilla y práctica de incorporar los mejores hábitos a nuestra vida diaria.Hábitos atómicos parte de una simple pero poderosa pregunta: ¿Cómo podemos vivir mejor? Sabemos que unos buenos hábitos nos permiten mejorar significativamente nuestra vida, pero con frecuencia nos desviamos del camino: dejamos de hacer ejercicio, comemos mal, dormimos poco, despilfarramos. ¿Por qué es tan fácil caer en los malos hábitos y tan complicado seguir los buenos? James Clear nos brinda fantásticas ideas basadas en investigaciones científicas, que le permiten revelarnos cómo podemos transformar pequeños hábitos cotidianos para cambiar nuestra vida y mejorarla. Esta guía pone al descubierto las fuerzas ocultas que moldean nuestro comportamiento —desde nuestra mentalidad, pasando por el ambiente y hasta la genética— y nos demuestra cómo aplicar cada cambio a nuestra vida y a nuestro trabajo.",
+      "price": 47200,
+      "id": 3
+    },
+    {
+      "name": "Ikigai",
+      "description": "Según los japoneses, todo el mundo tiene un ikigai, un motivo para existir. Algunos lo han encontrado y son conscientes de su ikigai, otros lo llevan dentro, pero todavía lo están buscando. Este es uno de los secretos para una vida larga, joven y feliz como la que llevan los habitantes de Okinawa, la isla más longeva del mundo",
+      "price": 36000,
+      "id": 4
+    },
+    {
+      "name": "El monje que vendio su ferrari",
+      "description": "El monje que vendió su Ferrari es la sugerente y emotiva historia de Julian Mantle, un super abogado cuya vida estresante, desequilibrada y obsesionada con el dinero acaba provocándole un infarto. Ese desastre provoca en Julian una crisis espiritual que le lleva a enfrentarse a las grandes cuestiones de la vida. Esperando descubrir los secretos de la felicidad y el esclarecimiento, emprende un extraordinario viaje por el Himalaya para conocer una antiquísima cultura de hombres sabios. Y allí descubre un modo de vida más gozoso, así como un método que le permite liberar todo su potencial y vivir con pasión, determinación y paz. Escrito a modo de fábula, este libro contiene una serie de sencillas y eficaces lecciones para mejorar nuestra manera de vivir. Vigorosa fusión de la sabiduría espiritual de Oriente con los principios del éxito occidentales, muestra paso a paso cómo vivir con más coraje, alegría, equilibrio y satisfacción. «Una cautivadora historia que enseña y deleita al mismo tiempo.» Paolo Coelho",
+      "price": 32000,
+      "id": 5
+    }
+  ]
+}

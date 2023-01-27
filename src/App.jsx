@@ -1,10 +1,17 @@
+import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import "./App.css";
 import { decrement, increment } from "./features/counter/counterSlice";
+import { getBooks } from "./thunks/thunks";
 
 function App() {
   const count = useSelector((state) => state.counter.value);
+  const books = useSelector((state) => state.books.bookList);
   const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(getBooks());
+  }, []);
 
   return (
     <main
@@ -30,6 +37,9 @@ function App() {
       >
         decrement
       </button>
+      {books.map((book) => (
+        <div key={book.id}>{book.name}</div>
+      ))}
     </main>
   );
 }
